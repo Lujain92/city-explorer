@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# City explorer
+Author: Lujain Al-Jarrah Version: 1.0.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+### Architecture
+React, JS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Change Log
+06-09-2022 6:00pm - Application now has a fully-functional express server, with a GET, POST, and DElETE route
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Estimates
+Name of feature:add locationIq key
+25-9-2022
+Estimate of time needed to complete: 1h
 
-### `npm test`
+Start time: 1:45pm
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Finish time: 3:45pm
 
-### `npm run build`
+Actual time needed to complete:2h
+_____
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Name of feature: add modal form to add book and delete button to delete specific book
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Estimate of time needed to complete: 3h
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start time: 1:00pm
 
-### `npm run eject`
+Finish time: 4:pm
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Actual time needed to complete: 3h
+___
+Name of feature: add form to update a book
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Estimate of time needed to complete: 1h
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Start time: 8:10pm
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Finish time: 9:20pm
 
-## Learn More
+Actual time needed to complete: 1:10h
+___
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Name of feature: Authentication
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Estimate of time needed to complete: 1h
 
-### Code Splitting
+Start time: 10:00pm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Finish time: 10:40pm
 
-### Analyzing the Bundle Size
+Actual time needed to complete: 40 min
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Credit and Collaborations
+bayan bushnaq
